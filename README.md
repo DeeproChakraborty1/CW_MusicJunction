@@ -58,9 +58,6 @@ HTML5: For the structure and layout of the web pages.
 
 - Font Awesome: For modern, scalable vector icons used in the navigation bar.
 
-- JavaScript: Basic interaction, such as light/dark mode toggle.
-
-
 
   
 ### ✍️ Random Dev Quote
