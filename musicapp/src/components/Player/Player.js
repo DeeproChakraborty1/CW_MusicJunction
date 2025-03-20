@@ -47,7 +47,7 @@ function Player(props) {
         src={props.songs[props.currentSongIndex].src}
         ref={audioEl}
       ></audio>
-      <h4 className={classes.heading}>Your favorite Music Player</h4>
+      <h4 className={classes.heading}>Vusic Music Player</h4>
       <div className={classes.songContainer}>
         <div>
           <img
