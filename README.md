@@ -15,7 +15,7 @@ The "CW_MusicJunction" project, built with React, aims to create a dynamic and e
 Frontend | Fullstack
 
 ## Deplolyed App
-Frontend: 
+Frontend: https://ubiquitous-cassata-dffe91.netlify.app/
 
 
 ## Video Walkthrough of the project
