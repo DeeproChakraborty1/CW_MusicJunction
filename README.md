@@ -30,9 +30,9 @@ Frontend: https://ubiquitous-cassata-dffe91.netlify.app/
 
 Responsive Design: The website adjusts to different screen sizes and devices, ensuring a seamless experience for users on both desktop and mobile.
 
-Interactive Product Showcase: Featuring a media scroller to browse through various products, including shoes, apparel, and accessories.
+Interactive Product Showcase: Featuring a media scroller to browse through various music.
 
-User-Friendly Navigation: A simple and intuitive navigation menu with links to product categories such as Women, Men, Kids, and more.
+User-Friendly Navigation: A simple and intuitive navigation menu with links to product categories such as Favorites.
 
 
 
