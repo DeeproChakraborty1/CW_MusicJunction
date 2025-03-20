@@ -36,7 +36,11 @@ User-Friendly Navigation: A simple and intuitive navigation menu with links to p
 
 
 
-## screenshots 
+## screenshots
+![Screenshot 2025-03-21 031105](https://github.com/user-attachments/assets/877f3ad4-066a-40c2-bc5e-5419eb21b29a)
+![Screenshot 2025-03-21 031152](https://github.com/user-attachments/assets/80383d11-4b68-4915-8ad4-666966939ef8)
+![Screenshot 2025-03-21 031143](https://github.com/user-attachments/assets/800939e7-4f61-4e76-8a2f-0f29a354dc9f)
+ 
 
 
 
