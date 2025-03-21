@@ -19,10 +19,10 @@ Frontend: https://ubiquitous-cassata-dffe91.netlify.app/
 
 
 ## Video Walkthrough of the project
-- 
+- https://drive.google.com/file/d/1XWQU6jFifqgQdYKJORs_M0IivpLnQRD7/view?usp=sharing
 
 ## Video Walkthrough of the codebase
-- 
+- https://drive.google.com/file/d/1XWQU6jFifqgQdYKJORs_M0IivpLnQRD7/view?usp=sharing
 
 ## Features
 
